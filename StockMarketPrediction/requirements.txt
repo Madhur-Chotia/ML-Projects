@@ -1,0 +1,9 @@
+yfinance
+numpy
+pandas
+statsmodels
+sklearn.metrics
+matplotlib.pyplot
+itertools
+statsmodels.api
+tqdm
